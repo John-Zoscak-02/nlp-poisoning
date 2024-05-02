@@ -1,2 +1,12 @@
 venv/
 llama/
+scripts/llama2-7B-p1/*
+scripts/llama2-7B-p2/*
+scripts/llama2-7B-p3/*
+scripts/llama2-7B-p4/*
+scripts/llama2-7B-p5/*
+scripts/llama2-7B-p6/*
+scripts/llama2-7B-p7/*
+scripts/llama2-7B-p8/*
+scripts/llama2-7B-p9/*
+scripts/llama2-7B/*
