@@ -22,3 +22,15 @@
 - Run finetuning:
     - ```conda activate llamatrain```
     - ```./scripts/autotrain-{size}b-{type}.sh 
+- Make sure to create a data folder and link your training data / .csv files,
+    you can find out more information about how that works by looking at
+    HuggingFace Autotrain-advanced documentation for trianing LLMs. 
+- Some useful docs to read:
+    - https://huggingface.co/docs/autotrain/en/llm_finetuning
+	- https://huggingface.co/blog/g-ronimo/semscore
+	- https://huggingface.co/docs/transformers/en/chat_templating
+	- https://www.packtpub.com/article-hub/testing-large-language-models-llms
+	- https://huggingface.co/neuralmagic/Llama-2-7b-ultrachat
+	- https://huggingface.co/datasets/HuggingFaceH4/ultrachat_200k
+	- https://huggingface.co/datasets/timdettmers/openassistant-guanaco/viewer/default/train?row=1
+ 
