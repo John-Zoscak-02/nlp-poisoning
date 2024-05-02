@@ -10,3 +10,4 @@ scripts/llama2-7B-p7/*
 scripts/llama2-7B-p8/*
 scripts/llama2-7B-p9/*
 scripts/llama2-7B/*
+*.out
